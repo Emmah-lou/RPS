@@ -1,0 +1,22 @@
+.container {
+  max-width: 1200px;
+}
+
+.containerRps {
+  max-width: 1200px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.rock {
+  text-align: center;
+}
+
+.paper {
+  text-align: center;
+}
+
+.scissors {
+  text-align: center;
+}
